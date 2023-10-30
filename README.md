@@ -23,3 +23,4 @@ kotlin.code.style=official
 # de modo que su clase R incluya solo los recursos declarados en la propia biblioteca y ninguno de las dependencias de la biblioteca,
 # lo que reduce el tamaño de la clase R para esa biblioteca
 android.nonTransitiveRClass=true
+..
